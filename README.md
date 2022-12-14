@@ -1,6 +1,10 @@
 # M2 / Computer-Graphics / Synthèse d'image
 
+### User guide
+
+```
 cd ../build
-cmake ../<folder>
+cmake ../FOLDER_STOCKAGE
 make
-./<file>
+./FILE_EXAMPLE
+```
